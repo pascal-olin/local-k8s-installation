@@ -1,8 +1,7 @@
 # Locally install Kubernetes with essential components
-
+> Forked from scalastic/local-k8s-installation, all credits to him
 > 
-> This procedure is working on macOS indeed - and it's a great deal. Hope this work on others systems with some 
-> modification, but I can't guarantee.
+> This procedure is working on windows - Docker for desktop with Kubernetes active. 
 
 >
 > I kept all YAML configuration files in the [k8s](k8s) directory. I will specify where they come from and
