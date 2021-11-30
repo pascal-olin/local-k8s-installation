@@ -175,5 +175,9 @@ Grafana will be listening on [http://localhost:3000](http://localhost:3000). The
 > Configuring a dashboard in Grafana could be long, costly, and time-consuming. Collecting metrics depends on your host, 
 VM/Virtualization Framework and the OS on your pod.
 
-You own a Mac, you're running Docker Desktop and have followed this guide : you can import this 
+
+
+
+*You own a Mac, you're running Docker Desktop and have followed this guide : you can import this 
 [dashboard](./k8s/Docker Desktop Kubernetes All-in-one-1618321310777.json) right now to start monitoring your K8S cluster!
+*
