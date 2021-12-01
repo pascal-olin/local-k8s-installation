@@ -95,7 +95,7 @@ When reloading the Dashboard, you should now see CPU and Memory Usages 🌈
 
 You can try the `Pods` section, that's my favorite! 
 
-![Dashboard with metrics page](img/dashboard-with-metrics.jpg)
+![Dashboard with metrics page](img/dashboard-with-metrics.png)
 
 ## Kube State Metrics
 
